@@ -2,6 +2,8 @@
 
 <img src="Retail_Dash.png" width=1000>
 
+Tableau public = https://public.tableau.com/app/profile/prachi.lidbe/viz/Retail_Sales_DashB/Dashboard1?publish=yes
+
 ## Overview
 The Executive Retail Sales Analytics Dashboard is a Tableau-based visualization designed to analyze and track retail sales performance across different regions, categories, and time periods. It provides key insights into year-to-date (YTD) sales, profit, quantity, and discount trends, helping stakeholders make data-driven decisions.
 
