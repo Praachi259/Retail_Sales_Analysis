@@ -31,6 +31,23 @@ Mapbox: For geographic visualization.
 
 OpenStreetMap: For location-based insights.
 
+## Key Insights
+1.
+<img src="Region_sales.png" width=1000>
+
+West and Central Acheived the sales target for 2018
+
+2.
+
+<img src="city_sales.png" width=1000>
+
+NY city was the best performer for the whole period
+
+3.
+
+<img src="month_sales.png" width=1000>
+
+September marked the highest sales in the year
 
 ## Future Enhancements
 1.Advanced Data Insights Predictive Analytics: Implement forecasting models to predict future sales trends using historical data.
