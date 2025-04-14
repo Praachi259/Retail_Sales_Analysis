@@ -27,10 +27,6 @@ SQL: For data extraction and transformation (if applicable).
 
 Excel/CSV: For data storage and preprocessing.
 
-Mapbox: For geographic visualization.
-
-OpenStreetMap: For location-based insights.
-
 ## Key Insights
 1.
 <img src="Region_sales.png" width=1000>
